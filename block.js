@@ -35,7 +35,7 @@ class Block{
 class Blockchain{
     constructor(){
         this.chain = [this.createGenesisBlock()];
-        this.difficulty = 3;
+        this.difficulty = 5;
         this.pendingTransactions = [];
         this.miningReward = 100;
     }
@@ -113,12 +113,12 @@ let block1 = new Blockchain();
 
 block1.createTransaction(new Transaction('address1', 'address2',100));
 block1.createTransaction(new Transaction('address1', 'address2',50));
-console.log('\n Staring the miner...');
+console.log('\n Starting the miner...');
 block1.minePendingTransactions('miner.address');
 console.log('\nBalance of miner is', block1.getBalanceofAddress('miner.address'));
 
 
-console.log('\n Staring the miner again...');
+console.log('\n Starting the miner again...');
 block1.minePendingTransactions('miner.address');
 console.log('\nBalance of miner is', block1.getBalanceofAddress('miner.address'));
 //console.log('Mining block 1...');
