@@ -7,7 +7,7 @@ let block1 = new Blockchain();
 const EC = require('elliptic').ec;
 const ec = new EC('secp256k1');
 
-const myKey = ec.keyFromPrivate('88f77c7ca77b3b669bdea988e91cf49843d06af40890a8e1e1808451e5dbb3d0');
+const myKey = ec.keyFromPrivate('f0c256841005add6e6782cfdd8375998abe65e340bb0921037178697b72aabb1');
 const myWalletAddress = myKey.getPublic('hex');
 
 const tx1 = new Transaction(myWalletAddress, 'public key goes here', 20);
