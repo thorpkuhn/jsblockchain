@@ -11,7 +11,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
+  "repository": "github:Cryptopragmatist/blockchaintest", {
     "type": "git",
     "url": "git+https://github.com/Cryptopragmatist/blockchaintest.git"
   },
