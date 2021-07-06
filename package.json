@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Cryptopragmatist/blockchaintest/issues"
   },
-  "homepage": "https://github.com/Cryptopragmatist/blockchaintest#readme"
+  "homepage": "https://github.com/Cryptopragmatist/blockchaintest#readme",
+  "keywords": []
 }
