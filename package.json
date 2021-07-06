@@ -1,11 +1,11 @@
 {
-  "name": "blockchaintest",
+  "name": "vsc",
   "version": "1.0.0",
-  "description": "for test",
+  "description": "This is my personal project for learning blockchain.",
   "main": "block.js",
   "dependencies": {
-    "elliptic": "^6.5.4",
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,13 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptopragmatist/blockchaintest.git"
+    "url": "git+https://github.com/Cryptopragmatist/blockchain.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cryptopragmatist/blockchaintest/issues"
+    "url": "https://github.com/Cryptopragmatist/blockchain/issues"
   },
-  "homepage": "https://github.com/Cryptopragmatist/blockchaintest#readme",
-  "keywords": []
+  "homepage": "https://github.com/Cryptopragmatist/blockchain#readme"
 }
