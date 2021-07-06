@@ -1,0 +1,24 @@
+{
+  "name": "blockchaintest",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "block.js",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptopragmatist/blockchaintest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cryptopragmatist/blockchaintest/issues"
+  },
+  "homepage": "https://github.com/Cryptopragmatist/blockchaintest#readme"
+}
