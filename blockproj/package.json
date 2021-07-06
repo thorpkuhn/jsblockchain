@@ -42,5 +42,13 @@
   "main": "karma.conf.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptopragmatist/blockchaintest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cryptopragmatist/blockchaintest/issues"
+  },
+  "homepage": "https://github.com/Cryptopragmatist/blockchaintest#readme"
 }
