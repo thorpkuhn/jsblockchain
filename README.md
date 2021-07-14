@@ -1,3 +1,3 @@
 # blockchaintest
 
-This is my personal project for learning blockchain.
+This is my personal project for learning blockchain on javascript.
